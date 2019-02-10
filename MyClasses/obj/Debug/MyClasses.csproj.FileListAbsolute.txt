@@ -1,0 +1,4 @@
+C:\Users\JAlexander\Desktop\Personal Training\Unit Testing\MyClasses\MyClasses\bin\Debug\MyClasses.dll
+C:\Users\JAlexander\Desktop\Personal Training\Unit Testing\MyClasses\MyClasses\bin\Debug\MyClasses.pdb
+C:\Users\JAlexander\Desktop\Personal Training\Unit Testing\MyClasses\MyClasses\obj\Debug\MyClasses.dll
+C:\Users\JAlexander\Desktop\Personal Training\Unit Testing\MyClasses\MyClasses\obj\Debug\MyClasses.pdb
